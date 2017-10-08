@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello everyone! This is a test project and changes are made here.
